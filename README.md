@@ -1,2 +1,4 @@
 # Project_Data_Science
-Toy_dataset
+
+1.) placement-project-logistic-regression
+
